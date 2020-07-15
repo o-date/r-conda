@@ -6,4 +6,4 @@ dependencies:
   - r-rcmdrmisc
   - r-ggplot2
   - r-tidyverse
-  
+  - r-rgdal
