@@ -7,3 +7,4 @@ dependencies:
   - r-ggplot2
   - r-tidyverse
   - r-rgdal
+  - r-sf
